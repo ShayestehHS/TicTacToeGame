@@ -1,0 +1,10 @@
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\bin\Debug\TicTocToeGame.exe.config
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\bin\Debug\TicTocToeGame.exe
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\bin\Debug\TicTocToeGame.pdb
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.csprojAssemblyReference.cache
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.frmMain.resources
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.Properties.Resources.resources
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.csproj.GenerateResource.cache
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.csproj.CoreCompileInputs.cache
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.exe
+C:\Users\shayestehhs\source\repos\TicTocToeGame\TicTocToeGame\obj\Debug\TicTocToeGame.pdb
